@@ -1,0 +1,5 @@
+/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/CMakeFiles/test_practic.dir
+/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/CMakeFiles/test_practic_autogen_timestamp_deps.dir
+/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/CMakeFiles/test_practic_autogen.dir

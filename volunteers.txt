@@ -1,0 +1,4 @@
+bob|bob@gmail.com|dogs,play,music|department1
+anna|anna@gmail.com|school,write,games|department2
+jack|jack@gmail.com|cats,read,music|department2
+radu|radu@gmail.com|dogs,paint,sports|department2

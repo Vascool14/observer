@@ -1,0 +1,2 @@
+department1, This is a department specialising in stray animals.
+department2, Give daily snacks to lonely animals.

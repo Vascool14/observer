@@ -1,0 +1,29 @@
+# ninja log v5
+550	1796	1718186070500128555	CMakeFiles/copy.dir/copy_autogen/mocs_compilation.cpp.o	9f9a3eadd9f32ebd
+8	44	1718186101761020385	/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/copy_autogen/timestamp	8c614dbcd4df7613
+48	161	1718186101876717763	copy	644e2f4d8d2cb2e8
+41	62	1718185882053937887	CMakeFiles/copy.dir/UI.cpp.o	7ffde6ec1ee4e876
+35	1535	1718189327572818985	CMakeFiles/test_practic.dir/service.cpp.o	c3144c02fe6fdd00
+2373	2564	1718189807801043912	test_practic	9a6082ba21d8cc9
+3	210	1718189885318319280	build.ninja	e9a0c2193d4ec98b
+551	1822	1718186070526925569	CMakeFiles/copy.dir/window.cpp.o	55cedb4533ed524d
+8	44	1718186101761020385	copy_autogen/mocs_compilation.cpp	8c614dbcd4df7613
+551	1377	1718186070082380000	CMakeFiles/copy.dir/service.cpp.o	c75a4e1656c133d
+8	44	1718186101761020385	copy_autogen/timestamp	8c614dbcd4df7613
+8	44	1718186101761020385	/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/copy_autogen/mocs_compilation.cpp	8c614dbcd4df7613
+31	683	1718185433500324956	CMakeFiles/copy.dir/repo.cpp.o	dc3ce7292e9a13ce
+550	1816	1718186070521576457	CMakeFiles/copy.dir/main.cpp.o	4bc2547576b4d5b0
+9	584	1718189805812547000	test_practic_autogen/mocs_compilation.cpp	90fc4e91d795d00f
+9	584	1718189805812547000	test_practic_autogen/timestamp	90fc4e91d795d00f
+633	1376	1718186166904134231	CMakeFiles/test_practic.dir/repo.cpp.o	cc88d43ca8a36693
+585	2339	1718189807568086721	CMakeFiles/test_practic.dir/main.cpp.o	d708f8b17544c9a8
+585	2336	1718189807564411134	CMakeFiles/test_practic.dir/test_practic_autogen/mocs_compilation.cpp.o	1abe49cc86cdcd69
+9	584	1718189805812547000	/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/test_practic_autogen/timestamp	90fc4e91d795d00f
+585	2373	1718189807607334126	CMakeFiles/test_practic.dir/window.cpp.o	5e0fc5924d5f74a3
+9	584	1718189805812547000	/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/test_practic_autogen/mocs_compilation.cpp	90fc4e91d795d00f
+6	30	1718189885857530000	test_practic_autogen/timestamp	90fc4e91d795d00f
+6	30	1718189885857530000	test_practic_autogen/mocs_compilation.cpp	90fc4e91d795d00f
+6	30	1718189885857530000	/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/test_practic_autogen/timestamp	90fc4e91d795d00f
+6	30	1718189885857530000	/Users/vascul/UBB/Semestrul2/📦 OOP/observer/cmake-build-debug/test_practic_autogen/mocs_compilation.cpp	90fc4e91d795d00f
+30	76	1718189885906170302	CMakeFiles/test_practic.dir/test_practic_autogen/mocs_compilation.cpp.o	1abe49cc86cdcd69
+30	1702	1718189887528432026	CMakeFiles/test_practic.dir/window.cpp.o	5e0fc5924d5f74a3
